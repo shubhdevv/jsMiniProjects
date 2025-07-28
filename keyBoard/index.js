@@ -14,7 +14,7 @@ window.addEventListener('keydown', (e) => {
       <td>${e.keyCode}</td> 
       <td>${e.code}</td>
     </tr>
-    
+     
   </table></div>
   `;
 })
